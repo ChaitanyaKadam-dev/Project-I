@@ -1,1 +1,1 @@
-Feature 3 and Feature 5
+Feature 3
